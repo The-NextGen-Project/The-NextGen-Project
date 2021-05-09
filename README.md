@@ -14,7 +14,7 @@ Why not? There are currently many attempts to replace the *C Programming Languag
 begin. Why is this? This is because the language is highly **portable**. This means that almost every architecture has a valid C Compiler
 which makes it almost impossible to truly eliminate. But the true problem is that C code can only be integrated in a limited subset of languages or
 are harder to integrate into other languages' standard library. To solve this problem, the new unified language concept should be able to target a variety of backends, whether they be actual CPUs, or VMs, we intend to target as many as we can that are stable. This results a language that can be ported to any place.
-We acknowledge the failed attempts of previous projects and hope to garner enough support to port many features from the community. This is why we have open-source in mind. To add features we want the community sugesst that at our [feature request form](https://forms.gle/9nSVzipF8MYr8Q456).
+We acknowledge the failed attempts of previous projects and hope to garner enough support to port many features from the community. This is why we have open-source in mind. To add features we want the community suggest them on our [feature request form](https://forms.gle/9nSVzipF8MYr8Q456).
 Other than the compiler's design itself, we focus on project generation. If you have ever dealt with a web application, you would know that they have 
 a great package manager setup as well as project generation. With so many backends targe
 
