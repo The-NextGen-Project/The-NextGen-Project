@@ -26,4 +26,4 @@ core features that will be developed. This makes it quite important that everyon
 language and its other tied together features.
 
 ### Ok now this sounds great, but how do I contribute?
-If you are reading this, you can make a change in how we program forever. To contribute, please see our [Contributng Guidelines](https://github.com/The-NextGen-Project/jet/blob/main/CONTRIBUTING.md) and our policies that are listed there. Don't forget to read closely as to how to report issues and our code style guidelines as they are very important for maintining a good codebase.
+If you are reading this, you can make a change in how we program forever. To contribute, please see our [Contributng Guidelines](https://github.com/The-NextGen-Project/jet/blob/main/CONTRIBUTING.md) and our policies that are listed there. Don't forget to read closely as to how to report issues and our code style guidelines as they are very important for maintining a good codebase. If you would like to be apart of the core team please apply [here](https://forms.gle/FV8VaQXcqTmUcJd78).
