@@ -23,4 +23,7 @@ are reaching out to you: The Open Source Community, to help progress this projec
 We would first like to add our language to the [Programming Language Discord](#about) server and then proceed as the language gains gradual 
 maturity. At the function stage, we would like to gather contributor and feature support. This is in the critical part of some of the language's 
 core features that will be developed. This makes it quite important that everyone will have an oppurtunity to suggest and give ideas for the 
-language.
+language and its other tied together features.
+
+### Ok now this sounds great, but how do I contribute?
+If you are reading this, you can make a change in how we program forever. To contribute, please see our [Contributng Guidelines](https://github.com/The-NextGen-Project/jet/blob/main/CONTRIBUTING.md) and our policies that are listed there. Don't forget to read closely as to how to report issues and our code style guidelines as they are very important for maintining a good codebase.
