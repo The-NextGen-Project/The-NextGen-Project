@@ -1,23 +1,19 @@
 # The NextGen Project
-### Unified Next Generation Toolchain for software and hardware integrations by unifying common toolsets via the Jet Programming Language.
+### Unifiy Open Source Developers to Design a Language that they LOVE
 
 About
 -------
 ### What is the NextGen Project? 
 The NextGen Project serves to be the hub for creating and synthesizing new and old open source projects
-into a unified toolchain under the Jet Programming Language. I know that there are several people who would love intgeration
-with their programming language's backend. With targetting many backends, we hope to create a highly portable programming
-language and toolchain.
+into a unified toolchain under the Jet Programming Language. The message remains: A toolchain made by Open Source Developers
+for Open Source Developers.
 
-### Why even attempt to create a unified language when there are so many existing ones designed for their platform?
-Why not? There are currently many attempts to replace the *C Programming Language*, however, it is a quite a difficult task to even
-begin. Why is this? This is because the language is highly **portable**. This means that almost every architecture has a valid C Compiler
-which makes it almost impossible to truly eliminate. But the true problem is that C code can only be integrated in a limited subset of languages or
-are harder to integrate into other languages' standard library. To solve this problem, the new unified language concept should be able to target a variety of backends, whether they be actual CPUs, or VMs, we intend to target as many as we can that are stable. This results a language that can be ported to any place.
-We acknowledge the failed attempts of previous projects and hope to garner enough support to port many features from the community. This is why we have open-source in mind. To add features we want the community suggest them on our [feature request form](https://forms.gle/9nSVzipF8MYr8Q456).
-Other than the compiler's design itself, we focus on project generation. If you have ever dealt with a web application, you would know that they have 
-a great package manager setup as well as project generation. With so many moving aspects, one person cannot possibly have time for all of them. Due to this, we
-are reaching out to you: The Open Source Community, to help progress this project further for the benefit of all other programmers. Make a change and be a part of this process.
+### The Open Source Programming Language (JET)
+This is the programming langauge that is made by Open Source Developers for Open Source Developers. The whole purpose is for all those alike to help contribute
+to the language's development in order to create something amazing for everyone. Aren't there enough languages already? Yep, but who says we can't have another
+one? I've seen lots of comments about certain syntax or design themes people wished were different in programming languages, well now is the chance to be apart 
+of the Next Generation Programming Langauage.
+
 
 ### How do the authors intend on gathering support?
 We would first like to add our language to the [Programming Language Discord](#about) server and then proceed as the language gains gradual 
