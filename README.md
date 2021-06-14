@@ -16,7 +16,7 @@ of the Next Generation Programming Langauage.
 
 
 ### How do the authors intend on gathering support?
-We would first like to add our language to the [Programming Language Discord](#about) server and then proceed as the language gains gradual 
+We would first like to add our language to the [Programming Language Discord](https://discord.gg/tft9Nw5jm6) server and then proceed as the language gains gradual 
 maturity. At the function stage, we would like to gather contributor and feature support. This is in the critical part of some of the language's 
 core features that will be developed. This makes it quite important that everyone will have an oppurtunity to suggest and give ideas for the 
 language and its other tied together features.
