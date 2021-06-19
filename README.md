@@ -3,7 +3,7 @@
 
 ## What is the NextGen Project? 
 The NextGen Project serves to create a modern language that allows integration with existing languages. For example, easily integrate the
-**[Jet Programming Language](https://discord.gg/tft9Nw5jm6)** with Python, JavaScript, and run its code along with them in the browser, or
+**[Jet Programming Language](https://github.com/The-NextGen-Project/jet)** with Python, JavaScript, and run its code along with them in the browser, or
 as web-backend. If you want to get low-level, integrate it with C-Libraries and headers, and avoid memory burdens with this language.
 
 ## The Jet Programming Language
