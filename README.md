@@ -1,25 +1,32 @@
 # The NextGen Project
-### Unifiy Open Source Developers to Design a Language that they LOVE
-
-About
--------
-### What is the NextGen Project? 
-The NextGen Project serves to be the hub for creating and synthesizing new and old open source projects
-into a unified toolchain under the Jet Programming Language. The message remains: A toolchain made by Open Source Developers
-for Open Source Developers.
-
-### The Open Source Programming Language (JET)
-This is the programming langauge that is made by Open Source Developers for Open Source Developers. The whole purpose is for all those alike to help contribute
-to the language's development in order to create something amazing for everyone. Aren't there enough languages already? Yep, but who says we can't have another
-one? I've seen lots of comments about certain syntax or design themes people wished were different in programming languages, well now is the chance to be apart 
-of the Next Generation Programming Langauage.
 
 
-### How do the authors intend on gathering support?
-We would first like to add our language to the [Programming Language Discord](https://discord.gg/tft9Nw5jm6) server and then proceed as the language gains gradual 
-maturity. At the function stage, we would like to gather contributor and feature support. This is in the critical part of some of the language's 
-core features that will be developed. This makes it quite important that everyone will have an oppurtunity to suggest and give ideas for the 
-language and its other tied together features.
+## What is the NextGen Project? 
+The NextGen Project serves to create a modern language that allows integration with existing languages. For example, easily integrate the
+**[Jet Programming Language](https://discord.gg/tft9Nw5jm6)** with Python, JavaScript, and run its code along with them in the browser, or
+as web-backend. If you want to get low-level, integrate it with C-Libraries and headers, and avoid memory burdens with this language.
 
-### Ok now this sounds great, but how do I contribute?
-If you are reading this, you can make a change in how we program forever. To contribute, please see our [Contributng Guidelines](https://github.com/The-NextGen-Project/jet/blob/main/CONTRIBUTING.md) and our policies that are listed there. Don't forget to read closely as to how to report issues and our code style guidelines as they are very important for maintining a good codebase. If you would like to be apart of the core team please apply [here](https://forms.gle/FV8VaQXcqTmUcJd78).
+## The Jet Programming Language
+The language was made with a clear intention to include features heavily requested by other developers into a language. Its design is also made with careful
+consideration of current programming paradigms as well modern programming languages used in the industry. We are targetting both systems developers as well
+frontend and backend web developers with this language. To get the best of all worlds, Jet will use generate code appropriately, even generating parts of 
+its code in different languages. For example, you write both a frontend interface for your webapp along with the backend interface with your webapp, and
+the compiler generates both JavaScript and Machine Code for the target and it works very nicely and is highly performant, and functions as well as another
+webapp would. 
+
+### Targets
+The Jet Programming Language will target languages/backends that provide the most portability and performance.
+Plans for targets include: **C**, **JavaScript**, **WASM**, and **Native CPU Architectures**.
+These backends cover our 2 target audiences as well as provide, a more performant output.
+
+## How do the authors intend on gathering support?
+Our languages is on the [r/Programming Language Discord](https://discord.gg/tft9Nw5jm6) server and then proceed as the language gains gradual 
+maturity. During this time, we would intend to join other forums to discuss our language design in hopes of reaching a wider developer community
+as well as communicate with developers in the industry such as: **Amazon**, **Google**, **JP Morgan**, and much more. We are the works of developing
+a language with fast project deployment time, and ease of syntax.
+
+## Ok now this sounds great, but how do I contribute?
+If you are reading this, you can make a change on our Github. To contribute, please see our [Contributing Guidelines](https://github.com/The-NextGen-Project/jet/blob/main/CONTRIBUTING.md) and our policies that are listed there. Don't forget to read closely as to how to report issues and our code style guidelines as they are very important for maintining a good codebase. 
+
+We are actively looking for other interested in this project, please apply [here](https://forms.gle/FV8VaQXcqTmUcJd78) to have a more involved
+role in the language's development.
