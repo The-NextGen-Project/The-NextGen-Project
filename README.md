@@ -2,22 +2,21 @@
 
 
 ## What is the NextGen Project? 
-The NextGen Project serves to create a modern language that allows integration with existing languages. For example, easily integrate the
-**[Jet Programming Language](https://github.com/The-NextGen-Project/jet)** with Python, JavaScript, and run its code along with them in the browser, or
-as web-backend. If you want to get low-level, integrate it with C-Libraries and headers, and avoid memory burdens with this language.
+The NextGen Project serves to create a modern language that allows for application unification.
+**[The Jet Programming Language](https://github.com/The-NextGen-Project/jet)** is designed to be application driven.
+It serves to write code for a single application to be ported to Native, Mobile, and Web Targets. This allows for codebases
+to not have rewrite quite a lot of code, or refactor a lot of code that can just be written once in a codebase.
 
 ## The Jet Programming Language
 The language was made with a clear intention to include features heavily requested by other developers into a language. Its design is also made with careful
-consideration of current programming paradigms as well modern programming languages used in the industry. We are targetting both systems developers as well
-frontend and backend web developers with this language. To get the best of all worlds, Jet will use generate code appropriately, even generating parts of 
-its code in different languages. For example, you write both a frontend interface for your webapp along with the backend interface with your webapp, and
-the compiler generates both JavaScript and WASM (For performant Client) and Machine Code for server-side operations creating an application that is flexible and 
-fast.
+consideration of current programming paradigms as well modern programming languages used in the industry. We are focused on creating a language that is highly
+productive as well as well-crafted. We do not want to give the language a bombardment of features, rather we will choose constructs that make programming easier
+as well as necessary for many applications written in Jet. 
 
 ### Targets
 The Jet Programming Language will target languages/backends that provide the most portability and performance.
 Plans for targets include: **C**, **JavaScript**, **WASM**, and **Native CPU Architectures**.
-These backends cover our 2 target audiences as well as provide, a more performant output.
+These backends cover all bases when targetting code, and are highly performant in their respective environment.
 
 ## How do the authors intend on gathering support?
 You may view or public display on the [r/Programming Language Discord](https://discord.gg/tft9Nw5jm6) **and** our [Jet Programming Language Official Discord Server](https://discord.gg/8cnuzFxZGx). During this time, we would intend to join other forums to discuss our language design in hopes of reaching a wider developer community
